@@ -63,6 +63,10 @@ public class TestBase {
 		
 	}
 	
+	public static void test()
+	{
+		System.out.println("Test Dummy method");
+	}
 	
 	
 	
